@@ -53,5 +53,5 @@ source .venv/bin/activate
 ```
 **2. Run application:**
 ```
-uv run filename.py
+uv run [filename.py]
 ```
